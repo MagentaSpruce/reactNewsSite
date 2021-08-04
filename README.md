@@ -1,7 +1,7 @@
 # reactNewsSite
 This React app creates a news site with fetched stories using server-side pagination.
 
-This app utilizes a 3rd party API to pull data from.
+This app utilizes a 3rd party API to pull news source data from.
 
 A general walkthrough of the pertinent React code is given below:
 
